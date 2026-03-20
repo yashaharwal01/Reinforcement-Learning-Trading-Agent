@@ -12,7 +12,7 @@
 pip install torch pandas numpy yfinance gym
 python rl_trading_agent.py
 
-**4. "Commit changes" → Done!**
+ "Commit changes" → Done!**
 
 ## **Method 3: Colab Notebook Save (.ipynb)**
 
