@@ -14,15 +14,10 @@ python rl_trading_agent.py
 
  "Commit changes" → Done!**
 
-## **Method 3: Colab Notebook Save (.ipynb)**
-
 **Colab menu → File → Save a copy in GitHub**
 - Repository: `yashaharwal01/Reinforcement-Learning-Trading-Agent`
 - File name: `rl_trader_training.ipynb`
 
-## **Pro README Template (Copy-Paste):**
-
-```markdown
 # 🤑 Yash RL Trading Agent
 
 **Sharpe Ratio: 2.6381** | **Drawdown: -0.30%** | **Status: LIVE**
